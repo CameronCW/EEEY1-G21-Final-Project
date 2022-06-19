@@ -1,2 +1,3 @@
 # EEEY1-G21-Final-Project
-Imperil EEE Final project Group 21
+Imperial EEE Final project Group 21
+UDP No server is the same as UDP Arduino without the wifiwebserver implementation
